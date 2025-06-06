@@ -13,3 +13,6 @@ The method we propose has 5 main steps.
   <li>A filter based on the contour size specified by the user is applied to count the appropriated objects within a certain size range</li.
 </ol>
  
+This code was developed by Rajitha Athukorala as part of his PhD internship program with [DCCEEW](https://www.dcceew.gov.au/)
+
+If you intend to use it and is keen to know more about future developments of 'stat on pixels', reach out to me at rajitha.athukorala@sydney.edu.au 
